@@ -1,3 +1,3 @@
 # Desafio POO
 
-![alt text](https://github.com/RicardoMValladares/desafioPOO/blob/c07715a7823a792befadc00c689ebea378d6b01c/Untitled%20diagram-2024-08-17-011119.png)
+![alt text](https://github.com/RicardoMValladares/desafioPOO/blob/419273e5a92f978e93a6482cb5781b8c8fedcd59/Untitled%20diagram-2024-08-17-012940.png)
